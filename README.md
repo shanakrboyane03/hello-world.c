@@ -1,3 +1,1 @@
-# hello-world.c
-Its my first project
-demo project
+Its a second project
